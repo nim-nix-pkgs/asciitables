@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1661565324,
-        "narHash": "sha256-afhHaQLr/m9hijBx3wKmpPHIHIqN7BdX/MfJBwaEOy8=",
+        "lastModified": 1661566892,
+        "narHash": "sha256-WiLuJ15DlH65JTzXc8wspkM5cbyxS8u9IyZq6eQiqv4=",
         "owner": "nim-nix-pkgs",
         "repo": "asciitables",
-        "rev": "8891d20a0cd82db2e799153965b9abf194844082",
+        "rev": "900fbdf8e3d834d547f2cda24081effcd67d97f1",
         "type": "github"
       },
       "original": {
